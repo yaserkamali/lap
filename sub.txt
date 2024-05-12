@@ -2,3 +2,5 @@ warp://188.114.98.60:1843/?ifp=5-10#yas
 warp://188.114.97.108:878/?ifp=5-10#yas
 warp://188.114.98.194:878/?ifp=5-10#yas
 warp://188.114.99.109:878/?ifp=5-10#yas
+vless://068d8a90-9f5e-4f4e-ba8d-bd80d6490c46@sirancell.gameserveryas.ir:443?path=%2FhBJBYL2lE5LLx0Z5rcB&security=tls&encryption=none&alpn=http/1.1&host=cdn.gameserveryas.ir&fp=chrome&type=ws&sni=cdn.gameserveryas.ir#cdn+tls+WS+CDN+vless
+vless://068d8a90-9f5e-4f4e-ba8d-bd80d6490c46@sirancell.gameserveryas.ir:443?path=%2FhBJBYL2lE5LLx0Z5rcB&security=tls&encryption=none&alpn=http/1.1&host=j.jmgmgmgmg.workers.dev&fp=chrome&type=ws&sni=j.jmgmgmgmg.workers.dev#j.jmgmgmgmg.workers.dev+tls+WS+CDN+vless
