@@ -1,8 +1,5 @@
-warp://162.159.195.45:8886/?ifp=5-10#yas
-warp://162.159.192.154:8886/?ifp=5-10#yas
-warp://188.114.98.168:2408/?ifp=5-10#yas
-warp://188.114.96.120:8886/?ifp=5-10#yas
-vless://068d8a90-9f5e-4f4e-ba8d-bd80d6490c46@sirancell.gameserveryas.ir:443?path=%2FhBJBYL2lE5LLx0Z5rcB&security=tls&encryption=none&alpn=http/1.1&host=cdn.gameserveryas.ir&fp=chrome&type=ws&sni=cdn.gameserveryas.ir#cdn+tls+WS+CDN+vless
-vless://068d8a90-9f5e-4f4e-ba8d-bd80d6490c46@sirancell.gameserveryas.ir:443?path=%2FhBJBYL2lE5LLx0Z5rcB&security=tls&encryption=none&alpn=http/1.1&host=j.jmgmgmgmg.workers.dev&fp=chrome&type=ws&sni=j.jmgmgmgmg.workers.dev#j.jmgmgmgmg.workers.dev+tls+WS+CDN+vless
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:3032::6815:1b95]:443?path=%2Ffc98uyfzKJH8uNLS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=MywORkEr.HIdD.woRKERS.deV&fp=randomized&type=ws&sni=MyworkER.HIdD.wORkerS.dEV#%F0%9F%92%A6+BPB+-+%5B2606%3A4700%3A3032%3A%3A681...
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[2606:4700:3031::ac43:8ef2]:443?path=%2Fnr1VdLti1sJfrVp5%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=myworKer.hiDD.WorKERS.deV&fp=randomized&type=ws&sni=mYwORKER.hIdD.wORkerS.deV#%F0%9F%92%A6+BPB+-+%5B2606%3A4700%3A3031%3A%3Aac4...
+vless://b790847c-a1cd-451e-933c-5221ac705366@213.176.7.45:47611?type=tcp&security=none#tun-direct-s
+vless://69467bba-a1bd-4045-a7de-363477984fcf@213.176.7.45:58658?type=ws&path=%2Feeseeerw&host=s5.tapsi.top&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=s5.tapsi.top#ws-tls-s2
+vless://beb0b98c-15df-4043-a887-4dbd493b614c@213.176.7.45:58901?type=tcp&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=s5.tapsi.top#tcp-tls-s3
+vless://9707e369-4ae8-42ef-895b-98bf9b74b822@213.176.7.45:25275?type=tcp&security=reality&pbk=RpoMpR3dAJZeTbYkiwBG_0-frcrlkHkP8S3x6oUqRGQ&fp=random&sni=yahoo.com&sid=6232b00825ce81&spx=%2F#tun-reality1-s4
+vless://432c59f4-d62d-4d3a-929e-ec8f85ae6c77@213.176.7.45:22616?type=tcp&security=reality&pbk=l8Q40nClX8PElxK7bOk3IsMQg5hbRtyi4yygG2CpKSk&fp=random&sni=ftp.debian.org&sid=7d6d&spx=%2F#tun-reality2-s5
